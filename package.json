@@ -23,8 +23,8 @@
     "cors": "^2.8.4",
     "ejs": "^3.1.8",
     "errorhandler": "^1.2.0",
-    "express": "^4.16.2",
-    "express-urlrewrite": "^1.2.0",
+    "express": "^5.0.0",
+    "express-urlrewrite": "^1.0.0",
     "formidable": "^3.5.0",
     "helmet": "^6.0.0",
     "jsonwebtoken": "^9.0.0",
@@ -34,6 +34,7 @@
     "method-override": "^2.3.10",
     "morgan": "^1.9.0",
     "nanoid": "^1.0.1",
+    "path-to-regexp": "^8.0.0",
     "pluralize": "^7.0.0",
     "prettier": "2.8.4",
     "seedrandom": "^3.0.5"
